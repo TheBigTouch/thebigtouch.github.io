@@ -7,11 +7,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		fingerprint.png = fingerprint.png
 		index.html = index.html
+		InstagramLogo.png = InstagramLogo.png
 		placeholderbackground.jpg = placeholderbackground.jpg
 		profileiconplaceholder.png = profileiconplaceholder.png
 		style.css = style.css
 		team.css = team.css
 		team.html = team.html
+		XTwitterLogo.png = XTwitterLogo.png
+		YoutubeLogo.png = YoutubeLogo.png
 	EndProjectSection
 EndProject
 Global
