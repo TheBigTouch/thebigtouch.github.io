@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7FAF70-3859-4738-9124-9626C8586215}|Solution Items{4B7FAF70-3859-4738-9124-9626C8586215}|\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\team.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7FAF70-3859-4738-9124-9626C8586215}|Solution Items{4B7FAF70-3859-4738-9124-9626C8586215}|\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\team.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7FAF70-3859-4738-9124-9626C8586215}|Solution Items{4B7FAF70-3859-4738-9124-9626C8586215}|\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7FAF70-3859-4738-9124-9626C8586215}|Solution Items{4B7FAF70-3859-4738-9124-9626C8586215}|\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\fingerprint.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7FAF70-3859-4738-9124-9626C8586215}|Solution Items{4B7FAF70-3859-4738-9124-9626C8586215}|\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fingerprint.png",
+              "DocumentMoniker": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\fingerprint.png",
+              "RelativeDocumentMoniker": "fingerprint.png",
+              "ToolTip": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\fingerprint.png",
+              "RelativeToolTip": "fingerprint.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-03T20:15:38.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-03T19:42:51.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T19:41:36.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "team.css",
+              "DocumentMoniker": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\team.css",
+              "RelativeDocumentMoniker": "team.css",
+              "ToolTip": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\team.css",
+              "RelativeToolTip": "team.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T19:38:53.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "team.html",
+              "DocumentMoniker": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\team.html",
+              "RelativeDocumentMoniker": "team.html",
+              "ToolTip": "\\\\pcfs03\\users$\\ajesse\\My Documents\\GitHub\\thebigtouch.github.io\\team.html",
+              "RelativeToolTip": "team.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-03T19:38:49.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

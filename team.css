@@ -46,3 +46,30 @@
             color: black;
         }
 
+.teamTitle{
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+}
+
+.flex-container {
+    display: flex;
+    background-color: #333;
+}
+
+.flex-container div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 17px;
+    color: white;
+}
+
+.flex-container div img {
+    width: 200px;
+    height: 275px;
+    background-color: antiquewhite;
+}
+
+/*.remaining {
+    background-color: #333;
+}*/
