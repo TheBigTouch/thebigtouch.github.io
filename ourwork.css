@@ -1,6 +1,4 @@
-﻿@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
-
-* {
+﻿* {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
@@ -40,34 +38,18 @@
         display: block;
     }
 
-
         /* Change the color of links on hover */
         .topnav a:hover {
             background-color: #ddd;
             color: black;
         }
 
-.youtube-button{
-    padding: 20px;
-    color: #fff;
-    background-color: #cc181e;
+body{
+}
+
+.main {
     display: flex;
-    align-items: center;
-    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
-    width: 100px;
-    height: 40px;
-    margin-left: 20px;
-}
-
-i {
-    font-size: 30px;
-    margin-right: 12px;
-}
-
-p {
-    font-size: 18px;
-}
-
-span {
-    margin-right: 4px;
+    flex-direction: column;
+    align-items: center; /* Centers content horizontally */
+    justify-content: center; /* Centers content vertically */
 }
