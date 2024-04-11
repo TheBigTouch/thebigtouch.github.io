@@ -47,9 +47,74 @@
 body{
 }
 
-.main {
+.main {/*
     display: flex;
-    flex-direction: column;
+    flex-direction: column;*/
     align-items: center; /* Centers content horizontally */
     justify-content: center; /* Centers content vertically */
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.videoSection {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+    /* Apply grayscale filter by default */
+    /*.videoSection img {
+        filter: grayscale(0%);
+        transition: filter 0.3s ease;
+    }*/
+
+        /* Remove grayscale filter on hover */
+        /*.videoSection img:hover {
+            filter: grayscale(100%);
+        }*/
+
+.videoSection p {
+    background: antiquewhite;
+    width: 480px;
+    height: 360px;
+    
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: gray;
+    width: 480px;
+    height: 360px;
+}
+
+/* Corrected selector */
+.videoSection:hover .overlay {
+    opacity: 75%;
+    
+}
+
+.overlayText {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.overlayYoutube > a{
+    max-width: 50%;
+    max-height: auto;
 }
