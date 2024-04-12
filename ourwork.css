@@ -92,6 +92,10 @@ body{
     opacity: 0;
     transition: .5s ease;
     background-color: gray;
+    /* YT logo as bg image for the overlay effect :D  */
+    background-image: url(YoutubeLogo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
     width: 480px;
     height: 360px;
 }
@@ -116,5 +120,5 @@ body{
 
 .overlayYoutube > a{
     max-width: 50%;
-    max-height: auto;
+    max-height: auto;    
 }
