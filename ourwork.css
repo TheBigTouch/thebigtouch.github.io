@@ -75,57 +75,19 @@ body{
             filter: grayscale(100%);
         }*/
 
-.videoSection p {
-    background: antiquewhite;
-    width: 480px;
-    height: 360px;
-    
-}
+    .videoSection p {
+        background: antiquewhite;
+        width: 315px;
+        height: 275px;
+        padding: 20px;
+    }
 
 .title {
     font-size: 25px;
     font-style: oblique;
 }
-/*  shelving this for a min
 
-.overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .5s ease;
-    background-color: gray;
-    background-image: url(YoutubeLogo.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    width: 480px;
-    height: 360px;
+.date {
+    font-size: 15px;
+    color: gray;
 }
-
-.videoSection:hover .overlay {
-    opacity: 75%;
-    
-}
-
-.overlayText {
-    color: white;
-    font-size: 20px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-}
-
-.overlayYoutube > a{
-    max-width: 50%;
-    max-height: auto;    
-}
-
-*/
