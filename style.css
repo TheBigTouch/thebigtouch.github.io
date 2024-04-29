@@ -54,7 +54,7 @@
     color: white;
 }
 
-.mainContent{
+.mainContent {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -62,4 +62,32 @@
     
 }
 
+.topnav .homebutton {
+    font-size: 30px;
+}
 
+.slider {
+    width: 1920px;
+    height: 1080px;
+    background: url(FALSEHOODcapture.png);
+    margin: 10px auto;
+    animation: slide 20s infinite;
+}
+
+@keyframes slide {
+    20%{
+        background: url(TheOneWhoWalksHolidaycapture.png);
+    }
+    40%{
+        background: url(JohnWickcapture.png);
+    }
+    60%{
+        background: url(TheOneWhoWalksChapter2capture.png);
+    }
+    80%{
+        background: url(TheOneWhoWalkscapture.png);
+    }
+    100%{
+        background: url(Thirstycapture.png)
+    }
+}
