@@ -59,9 +59,12 @@ body{
 
 .videoSection {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     padding-bottom: 10px;
     position: relative;
+    justify-content: center;
+    align-items: center;
+    /*padding-top: 50px;*/
 }
 
     /* Apply grayscale filter by default */
@@ -77,8 +80,8 @@ body{
 
     .videoSection p {
         background: antiquewhite;
-        width: 315px;
-        height: 275px;
+        width: 800px;
+        height: 175px;
         padding: 20px;
     }
 
