@@ -79,7 +79,7 @@ form{
     font-size: 18px;
 }
 
-.message-icon {
+/*.message-icon {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -122,4 +122,4 @@ form input, textarea{
     font-size: 16px;
     padding: 6px 0;
     border-radius: 50px;
-}
+}*/
