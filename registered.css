@@ -1,4 +1,5 @@
-﻿* {
+﻿/* Add a black background color to the top navigation */
+* {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
@@ -38,59 +39,49 @@
         display: block;
     }
 
+
         /* Change the color of links on hover */
         .topnav a:hover {
             background-color: #ddd;
             color: black;
         }
 
-body{
-    background-color: #333;"
+
+.main {
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
-.main {/*
-    display: flex;
-    flex-direction: column;*/
-    align-items: center; /* Centers content horizontally */
-    justify-content: center; /* Centers content vertically */
-    padding-left: 50px;
-    padding-right: 50px;
+.mainContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-.videoSection {
+.topnav .homebutton {
+    font-size: 30px;
+}
+
+.thank-you {
+    background: antiquewhite;
+    padding: 50px;
+    width: 50%;
+    margin: auto;
     display: flex;
     flex-direction: column;
-    padding-bottom: 10px;
-    position: relative;
-    justify-content: center;
     align-items: center;
-    /*padding-top: 50px;*/
+    justify-content: center;
+    text-align: center;
 }
 
-    /* Apply grayscale filter by default */
-    /*.videoSection img {
-        filter: grayscale(0%);
-        transition: filter 0.3s ease;
-    }*/
-
-        /* Remove grayscale filter on hover */
-        /*.videoSection img:hover {
-            filter: grayscale(100%);
-        }*/
-
-    .videoSection p {
-        background: antiquewhite;
-        width: 800px;
-        height: 175px;
-        padding: 20px;
-    }
-
-.title {
-    font-size: 25px;
-    font-style: oblique;
+.thank-you button{
+    background: transparent;
+    border: none;
 }
 
-.date {
-    font-size: 15px;
-    color: gray;
+.thank-you img {
+    width: 50px;
+    height: 50px;
 }
