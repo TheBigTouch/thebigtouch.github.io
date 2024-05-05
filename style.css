@@ -69,25 +69,25 @@
 .slider {
     width: 1920px;
     height: 1080px;
-    background: url(FALSEHOODcapture.png);
+    background: url('FALSEHOODcapture.png');
     margin: 10px auto;
     animation: slide 20s infinite;
 }
 
 @keyframes slide {
     20%{
-        background: url(TheOneWhoWalksHolidaycapture.png);
+        background: url('TheOneWhoWalksHolidaycapture.png');
     }
     40%{
-        background: url(JohnWickcapture.png);
+        background: url('JohnWickcapture.png');
     }
     60%{
-        background: url(TheOneWhoWalksChapter2capture.png);
+        background: url('TheOneWhoWalksChapter2capture.png');
     }
     80%{
-        background: url(TheOneWhoWalkscapture.png);
+        background: url('TheOneWhoWalkscapture.png');
     }
     100%{
-        background: url(Thirstycapture.png)
+        background: url('Thirstycapture.png')
     }
 }
